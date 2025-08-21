@@ -37,7 +37,7 @@
   "LinkedIn_orgId": "urn:li:organization:18465117",
   "Logs_Service_Name": "KFNR",
   "MICROSITE_FRONTEND_URL": "https://kfrecruit.kornferrytalent-dev.com",
-  "MT_baseurl": "https://mt-api.int.bhdev.kfddev.com/api",
+  "MT_baseurl": "https://iam-api.apps.app01.dev-use1.int-kfone.com",
   "OpenAISecretName": "/apps/kfnr/openai",
   "OpenAi_ApiUrl": "https://api.openai.com/v1/chat/completions",
   "OpenAi_Model": "gpt-4o-mini",
@@ -88,4 +88,5 @@
   "smtp_fromemailaddress": "kfnr-admin@penkf.xyz",
   "smtp_host": "smtp-mail.outlook.com",
   "smtp_port": "587"
+
 }
