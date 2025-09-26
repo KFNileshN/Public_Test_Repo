@@ -1,6 +1,7 @@
 {
   "ALLOW_INTERNAL_CLIENTS": "true",
   "ATSSecretName": "/apps/kfnr/ats",
+  "Azure_Tenant_Id": "042d4a54-086a-40bb-933d-38798144ad93",
   "BOT_API_BASE_URL": "https://hiring-manager-bot-api.apps.app01.dev-use1.int-kfone.com",
   "CONSENT_API_BASE_URL": "https://api.kornferrytalent-dev.com/kfnr-consent",
   "Client_ATS_URL": "https://foresightstage.futurestep.com",
@@ -58,7 +59,6 @@
   "SmtpSecretName": "/apps/kfnr/smtp",
   "SovrenCredentials_AccountId": "13048215",
   "SovrenCredentials_DataCenter": "US",
-  "TalentPoolCandidateLimit": "3",
   "VIRUS_SCAN_URL": "https://avscan.kfapps.net/avscan/scan",
   "VirusScanSecretName": "/system/platform/avscan/appkey",
   "adhocSearchKey": "kfone_kfnr_adhocsearch_create_key",
