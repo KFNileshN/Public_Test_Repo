@@ -4,6 +4,7 @@
   "BOT_API_BASE_URL": "https://hiring-manager-bot-api.apps.app01.dev-use1.int-kfone.com",
   "CONSENT_API_BASE_URL": "https://api.kornferrytalent-dev.com/kfnr-consent",
   "Client_ATS_URL": "https://foresightstage.futurestep.com",
+  "ConsentDbSecretName": "/system/platform/postgres/shared/kfnr-consent-pwd",
   "ConsentEncryptionKey": "4ajxhw26uo",
   "Core_base_url": "https://core-api.apps.app01.dev-use1.int-kfone.com",
   "DS_BASE_URL": "https://ds-kfnr-candidate-search-hub.apps.app01.dev-use1.int-kfone.com/v1/",
