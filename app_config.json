@@ -30,6 +30,8 @@
   "KFNR_OPTIN_APPLICABLE_COUNTRIES": "Argentina,Chile,Colombia,Ecuador,Malaysia,Peru,Republic of Korea,South Korea,Taiwan,Taiwan (Province of China),Vietnam,British Virgin Islands,Nigeria,Panama,Paraguay,Uganda,ARG,CHL,COL,ECU,MYS,PER,KOR,ROK,VGB,NGA,PAN,PRY,UGA",
   "KFNR_Service_API_URL": "https://api.kornferrytalent-dev.com/kfnr",
   "KFNR_UKRAINE_CITIES": "Autonomous Republic of Crimea,Kherson Oblast,Khersonska miska hromada,Zaporizhia Oblast,Luhansk Oblast,Luhanska miska hromada,Luhanska miska hromada (Luhansk),Donetsk,Donetsk Oblast,Sumy Oblast,Kirovohrad Oblast,Mykolaiv Oblast,Kharkiv Oblast,Poltava Oblast,Dnipropetrovsk Oblast",
+  "KFNRmailattachmentS3bucketname": "kfone-dev-use1-kfnr-recruiter-mailattachments-s3-001",
+  "KFNRmailmessageS3bucketname": "kfone-dev-use1-kfnr-recruiter-mailmessages-s3-001",
   "KfnrDbSecretName": "/system/platform/postgres/shared/kfnr-pwd",
   "KfnrHubSecretName": "/apps/kfnr/hub",
   "KfnrSoverenSecretName": "/apps/kfnr/soveren",
