@@ -3,5 +3,8 @@
   "KFNR_Service_API_URL": "https://kfnr-api.apps.app01.dev-use1.int-kfone.com",
   "botSecretName": "/apps/hiring-manager/bot-app-registration",
   "bot_login_url": "https://kf-ic2b-dv-ee.azureedge.net/",
-  "teams_app_id": "332e144a-351b-11ee-be56-0242ac120002"
+  "teams_app_id": "332e144a-351b-11ee-be56-0242ac120002",
+  "IDP_Base_URL": "https://idp.kornferrytalent-dev.com",
+  "IDP_URL_Endpoint": "realms/dev/protocol/openid-connect/token",
+  "hmClientSecretName": "/system/platform/keycloak/hm-client-secret-001"
 }
