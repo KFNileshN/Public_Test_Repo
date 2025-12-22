@@ -5,6 +5,6 @@
   "bot_login_url": "https://kf-ic2b-dv-ee.azureedge.net/",
   "teams_app_id": "332e144a-351b-11ee-be56-0242ac120002",
   "IDP_Base_URL": "https://idp.kornferrytalent-qa.com",
-  "IDP_URL_Endpoint": "/realms/dev/protocol/openid-connect/token",
+  "IDP_URL_Endpoint": "/realms/qa/protocol/openid-connect/token",
   "hmClientSecretName": "/system/platform/keycloak/hm-client-secret-001"
 }
