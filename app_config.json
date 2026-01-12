@@ -112,5 +112,8 @@
   "talentpoolRequestsKey": "kfone_kfnr_talentpool_requests_key",
   "talentpoolRequestsQueue": "kfone_kfnr_talentpool_requests_queue",
   "talentpoolResponsesKey": "kfone_kfnr_talentpool_responses_key",
-  "talentpoolResponsesQueue": "kfone_kfnr_talentpool_responses_queue"
+  "talentpoolResponsesQueue": "kfone_kfnr_talentpool_responses_queue",
+  "RAKFNRSyncFromEmailAddress" : "kfnr-admin@penkf.xyz",
+  "RAKFNRSyncToEmailAddress":"naveen.singh@kornferry.com"
 }
+
