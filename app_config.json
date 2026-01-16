@@ -116,7 +116,9 @@
   "RAKFNRSyncFromEmailAddress" : "kfnr-admin@penkf.xyz",
   "RAKFNRSyncToEmailAddress":"naveen.singh@kornferry.com",
   "poppSchedulingQueue":"kfone_kfnr_popp_scheduling_queue",
-  "poppSchedulingKey":"kfone_kfnr_popp_scheduling_key"
+  "poppSchedulingKey":"kfone_kfnr_popp_scheduling_key",
+  "POPP_CustomAPI_URL": "https://ai-api.joinpopp.com/adhoc/korn-ferry"
 }
+
 
 
