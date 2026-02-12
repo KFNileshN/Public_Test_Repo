@@ -11,7 +11,7 @@
   "ElasticPdlSearchSecretName": "/system/infra/elastic-cloud/elasticsearch/kfnr-pdl-admin-apikey1",
   "Elastic_CandidateSearchUrl": "https://ds-kfnr-candidate-search-hub.apps.app01.dev-use1.int-kfone.com/v1/",
   "ElasticsearchSecret": "/system/infra/elastic-cloud/elasticsearch/kfnr-admin-apikey",
-  "FromEmailHM": "kfnr-admin@penkf.xyz",
+  "FromEmailHM": "noreply@kornferry.com",
   "HUB_BASE_URL": "https://kfdevproductsapi.kornferrytalent-dev.com",
   "HUB_BASE_UserName": "clm.user.one@testkfy.com",
   "IAMLoginSecretName": "/apps/kfnr/IAMLoginCreds",
@@ -120,6 +120,7 @@
   "POPP_CustomAPI_URL": "https://ai-api.joinpopp.com/adhoc/korn-ferry",
   "IAM_ValidateClient_ProductLineId": "21"
 }
+
 
 
 
