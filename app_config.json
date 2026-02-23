@@ -11,11 +11,12 @@
   "ElasticPdlSearchSecretName": "/system/infra/elastic-cloud/elasticsearch/kfnr-pdl-admin-apikey1",
   "Elastic_CandidateSearchUrl": "https://ds-kfnr-candidate-search-hub.apps.app01.dev-use1.int-kfone.com/v1/",
   "ElasticsearchSecret": "/system/infra/elastic-cloud/elasticsearch/kfnr-admin-apikey",
-  "FromEmailHM": "noreply@kornferry.com",
+  "FromEmailHM": "kfnr-admin@penkf.xyz",
   "HUB_BASE_URL": "https://kfdevproductsapi.kornferrytalent-dev.com",
   "HUB_BASE_UserName": "clm.user.one@testkfy.com",
   "IAMLoginSecretName": "/apps/kfnr/IAMLoginCreds",
   "IAM_BaseUrl": "https://kfdevproductsapi.kornferrytalent-dev.com",
+  "IAM_ValidateClient_ProductLineId": "21",
   "ICIMS_audience": "https://api.icims.com/v1/",
   "IS_PUBLIC_SOURCE": "true",
   "IcimsSecretName": "/apps/kfnr/icims",
@@ -25,6 +26,8 @@
   "Icims_TokenUrl": "https://login.icims.com/oauth/token",
   "Internal_Domain": "kfdbhdevoutlook.onmicrosoft.com",
   "InterviewFeedbackForm_BaseUrl": "https://kfhminterviewfeedback.kornferrytalent-dev.com",
+  "JOVEO_API_BASE": "https://api.joveo.com",
+  "JoveoAuthURL": "/v3/oauth/user-token",
   "KFNRS3bucketname": "kfone-dev-use1-kfnr-s3-001",
   "KFNR_CENSORED_COUNTRIES": "Russia,Cuba,Iran,North Korea,Syria,China",
   "KFNR_CENSORED_COUNTRIES_ISO_2": "ru,cu,ir,kp,sy,cn",
@@ -55,10 +58,13 @@
   "PDL_AutoComplete": "https://api.peopledatalabs.com/v5/autocomplete",
   "PDL_BaseUrl": "https://sandbox.api.peopledatalabs.com/v5/",
   "PDL_ProdUrl": "https://api.peopledatalabs.com/v5/",
+  "POPP_CustomAPI_URL": "https://ai-api.joinpopp.com/adhoc/korn-ferry",
   "PUBLIC_DATA_SOURCE": "https://api.kornferrytalent-dev.com/kfnr",
   "PdlSecretName": "/apps/kfnr/pdl",
   "PublicSourceSecretName": "/apps/kfnr/publicsource",
   "RADbSecretName": "/system/platform/postgres/shared/ra-pwd",
+  "RAKFNRSyncFromEmailAddress": "kfnr-admin@penkf.xyz",
+  "RAKFNRSyncToEmailAddress": "Neha.Kumari@KornFerry.com",
   "RX_API_DOMAIN": "https://api.kornferrytalent-dev.com",
   "ResumeUpload": "resumeupload",
   "RpoUserEndpoint": "https://iam-api.apps.app01.dev-use1.int-kfone.com/v2/users/roles/members",
@@ -68,7 +74,7 @@
   "SovrenCredentials_AccountId": "13048215",
   "SovrenCredentials_DataCenter": "US",
   "TalentPoolCandidateLimit": "50000",
-  "ToEmailHM": "Help@Support.com",
+  "ToEmailHM": "Neha.Kumari@kornferry.com",
   "VIRUS_SCAN_URL": "https://avscan.kfapps.net/avscan/scan",
   "VirusScanSecretName": "/system/platform/avscan/appkey",
   "adaptiveCardKey": "kfone_kfnr_adaptive_card_key",
@@ -97,6 +103,8 @@
   "kfnrBNFQueue": "kfone_kfnr_bnf_queue",
   "kfnr_db": "kfnr",
   "nb_group_id": "d806a6e1-cc0b-4187-87bf-ff4bf78985bf",
+  "poppSchedulingKey": "kfone_kfnr_popp_scheduling_key",
+  "poppSchedulingQueue": "kfone_kfnr_popp_scheduling_queue",
   "profileViewKey": "kfone_kfnr_profileview_create_key",
   "profileViewQueue": "kfone_kfnr_profileview_create_queue",
   "ra_db": "ra",
@@ -112,16 +120,5 @@
   "talentpoolRequestsKey": "kfone_kfnr_talentpool_requests_key",
   "talentpoolRequestsQueue": "kfone_kfnr_talentpool_requests_queue",
   "talentpoolResponsesKey": "kfone_kfnr_talentpool_responses_key",
-  "talentpoolResponsesQueue": "kfone_kfnr_talentpool_responses_queue",
-  "RAKFNRSyncFromEmailAddress" : "kfnr-admin@penkf.xyz",
-  "RAKFNRSyncToEmailAddress":"naveen.singh@kornferry.com",
-  "poppSchedulingQueue":"kfone_kfnr_popp_scheduling_queue",
-  "poppSchedulingKey":"kfone_kfnr_popp_scheduling_key",
-  "POPP_CustomAPI_URL": "https://ai-api.joinpopp.com/adhoc/korn-ferry",
-  "IAM_ValidateClient_ProductLineId": "21"
+  "talentpoolResponsesQueue": "kfone_kfnr_talentpool_responses_queue"
 }
-
-
-
-
-
