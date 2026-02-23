@@ -26,7 +26,7 @@
   "Icims_TokenUrl": "https://login.icims.com/oauth/token",
   "Internal_Domain": "kfdbhdevoutlook.onmicrosoft.com",
   "InterviewFeedbackForm_BaseUrl": "https://kfhminterviewfeedback.kornferrytalent-dev.com",
-  "JOVEO_API_BASE": "https://api.joveo.com",
+  "Joveo_API_BaseUrl": "https://api.joveo.com",
   "JoveoAuthURL": "/v3/oauth/user-token",
   "KFNRS3bucketname": "kfone-dev-use1-kfnr-s3-001",
   "KFNR_CENSORED_COUNTRIES": "Russia,Cuba,Iran,North Korea,Syria,China",
@@ -122,3 +122,4 @@
   "talentpoolResponsesKey": "kfone_kfnr_talentpool_responses_key",
   "talentpoolResponsesQueue": "kfone_kfnr_talentpool_responses_queue"
 }
+
