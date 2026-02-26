@@ -26,9 +26,17 @@
   "Icims_TokenUrl": "https://login.icims.com/oauth/token",
   "Internal_Domain": "kfdbhdevoutlook.onmicrosoft.com",
   "InterviewFeedbackForm_BaseUrl": "https://kfhminterviewfeedback.kornferrytalent-dev.com",
-  "Joveo_API_BaseUrl": "https://api.joveo.com",
-  "JoveoUserAuthURL": "/v3/oauth/user-token",
+  "JoveUserSyncKey": "kfone_kfnr_joveo_user_sync_key",
+  "JoveoCandidateSyncKey": "kfone_kfnr_joveo_candidate_sync_key",
+  "JoveoCandidateSyncQueue": "kfone_kfnr_joveo_candidate_sync_queue",
   "JoveoClientAuthURL": "/v3/oauth/client-token",
+  "JoveoJobSyncKey": "kfone_kfnr_joveo_job_sync_key",
+  "JoveoJobSyncQueue": "kfone_kfnr_joveo_job_sync_queue",
+  "JoveoSegmentSyncKey": "kfone_kfnr_joveo_segment_sync_key",
+  "JoveoSegmentSyncQueue": "kfone_kfnr_joveo_Segment_sync_queue",
+  "JoveoUserAuthURL": "/v3/oauth/user-token",
+  "JoveoUserSyncQueue": "kfone_kfnr_joveo_user_sync_queue",
+  "Joveo_API_BaseUrl": "https://api.joveo.com",
   "KFNRS3bucketname": "kfone-dev-use1-kfnr-s3-001",
   "KFNR_CENSORED_COUNTRIES": "Russia,Cuba,Iran,North Korea,Syria,China",
   "KFNR_CENSORED_COUNTRIES_ISO_2": "ru,cu,ir,kp,sy,cn",
@@ -123,6 +131,3 @@
   "talentpoolResponsesKey": "kfone_kfnr_talentpool_responses_key",
   "talentpoolResponsesQueue": "kfone_kfnr_talentpool_responses_queue"
 }
-
-
-
