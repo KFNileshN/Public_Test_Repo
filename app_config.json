@@ -26,7 +26,7 @@
   "Icims_TokenUrl": "https://login.icims.com/oauth/token",
   "Internal_Domain": "kfdbhdevoutlook.onmicrosoft.com",
   "InterviewFeedbackForm_BaseUrl": "https://kfhminterviewfeedback.kornferrytalent-dev.com",
-  "JoveUserSyncKey": "kfone_kfnr_joveo_user_sync_key",
+  "JoveoUserSyncKey": "kfone_kfnr_joveo_user_sync_key",
   "JoveoCandidateSyncKey": "kfone_kfnr_joveo_candidate_sync_key",
   "JoveoCandidateSyncQueue": "kfone_kfnr_joveo_candidate_sync_queue",
   "JoveoClientAuthURL": "/v3/oauth/client-token",
@@ -131,3 +131,4 @@
   "talentpoolResponsesKey": "kfone_kfnr_talentpool_responses_key",
   "talentpoolResponsesQueue": "kfone_kfnr_talentpool_responses_queue"
 }
+
