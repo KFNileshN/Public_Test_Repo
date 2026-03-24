@@ -33,7 +33,7 @@
   "JoveoJobSyncKey": "kfone_kfnr_joveo_job_sync_key",
   "JoveoJobSyncQueue": "kfone_kfnr_joveo_job_sync_queue",
   "JoveoSegmentSyncKey": "kfone_kfnr_joveo_segment_sync_key",
-  "JoveoSegmentSyncQueue": "kfone_kfnr_joveo_Segment_sync_queue",
+  "JoveoSegmentSyncQueue": "kfone_kfnr_joveo_segment_sync_queue",
   "JoveoUserAuthURL": "/v3/oauth/user-token",
   "JoveoUserSyncQueue": "kfone_kfnr_joveo_user_sync_queue",
   "Joveo_API_BaseUrl": "https://api.joveo.com",
@@ -132,5 +132,6 @@
   "talentpoolResponsesQueue": "kfone_kfnr_talentpool_responses_queue",
   "OpenAi_ResponseApiUrl": "https://api.openai.com/v1/responses"
 }
+
 
 
