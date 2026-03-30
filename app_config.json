@@ -130,7 +130,8 @@
   "talentpoolRequestsQueue": "kfone_kfnr_talentpool_requests_queue",
   "talentpoolResponsesKey": "kfone_kfnr_talentpool_responses_key",
   "talentpoolResponsesQueue": "kfone_kfnr_talentpool_responses_queue",
-  "OpenAi_ResponseApiUrl": "https://api.openai.com/v1/responses"
+  "OpenAi_ResponseApiUrl": "https://api.openai.com/v1/responses",
+  "Decisions_Base_URL": "https://decisionsworkflow.kornferrytalent-dev.com:443/"
 }
 
 
