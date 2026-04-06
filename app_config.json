@@ -147,6 +147,7 @@
   "talentpoolResponsesQueue": "kfone_kfnr_talentpool_responses_queue",
   "AgentCore_Base_URL": "arn:aws:bedrock-agentcore:us-east-1:011528287407:runtime/",
   "Joveo_Deactivation_DesignatedContact": "the KFNR Product Operations team",
+  "Joveo_Deactivation_DesignatedContactEmail": "prodops@kornferry.com",
   "Joveo_Deactivation_NotificationRecipients": "shubham.chawla@kornferry.com,Balaji.Ramadass@KornFerry.com",
   "Joveo_Deactivation_SenderName": "KFNR Team"
 }
