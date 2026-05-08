@@ -153,5 +153,8 @@
   "JoveoGDPRCandidateSyncKey": "kfone_kfnr_joveo_gdpr_candidate_sync_key",
   "JoveoGDPRCandidateSyncQueue": "kfone_kfnr_joveo_gdpr_candidate_sync_queue",
   "EmailSendMailtoStepKey": "kfone_kfnr_send_Step_Message_key",
-  "EmailSendMailtoStepQueue": "kfone_kfnr_send_Step_Message_queue"
+  "EmailSendMailtoStepQueue": "kfone_kfnr_send_Step_Message_queue",
+  "AgentCore_Base_URL" : "arn:aws:bedrock-agentcore:us-east-1:011528287407:runtime/",
+  "Follow_Up_Agent_App"	: "kfnr_i2a_followup_agent-WrNNmzFHpZ",
+  "Planner_Agent_App": "kfnr_i2a_planner_agent-rvGr5kGS52"
 }
