@@ -103,6 +103,7 @@
   "RAKFNRSyncToEmailAddress": "Neha.Kumari@KornFerry.com",
   "RX_API_DOMAIN": "https://api.kornferrytalent-dev.com",
   "ResumeUpload": "resumeupload",
+  "OpenAISearchSecretName": "/apps/kfnr/openaisearch",
   "RpoUserEndpoint": "https://iam-api.apps.app01.dev-use1.int-kfone.com/v2/users/roles/members",
   "SP_BASE_URL": "https://sp-api.int.bhdev.kfddev.com",
   "SendEmailOnScheduleWithinNoOfDays": "3",
