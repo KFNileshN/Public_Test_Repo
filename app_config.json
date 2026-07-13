@@ -158,5 +158,6 @@
   "talentpoolRequestsKey": "kfone_kfnr_talentpool_requests_key",
   "talentpoolRequestsQueue": "kfone_kfnr_talentpool_requests_queue",
   "talentpoolResponsesKey": "kfone_kfnr_talentpool_responses_key",
-  "talentpoolResponsesQueue": "kfone_kfnr_talentpool_responses_queue"
+  "talentpoolResponsesQueue": "kfone_kfnr_talentpool_responses_queue",
+  "candidateAiSummaryKey": "kfone_kfnr_candidate_ai_summary_key"
 }
