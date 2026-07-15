@@ -17,6 +17,7 @@
   "ElasticPdlSearchSecretName": "/system/infra/elastic-cloud/elasticsearch/kfnr-pdl-admin-apikey1",
   "Elastic_CandidateSearchUrl": "https://ds-kfnr-candidate-search-hub.apps.app01.dev-use1.int-kfone.com/v1/",
   "ElasticsearchSecret": "/system/infra/elastic-cloud/elasticsearch/kfnr-admin-apikey",
+  "SmartRecruitersApiKeySecretName": "/apps/kfnr/smartrecruiter/apikey",
   "EmailSendMailtoStepKey": "kfone_kfnr_send_Step_Message_key",
   "EmailSendMailtoStepQueue": "kfone_kfnr_send_Step_Message_queue",
   "Follow_Up_Agent_App": "kfnr_i2a_followup_agent-WrNNmzFHpZ",
