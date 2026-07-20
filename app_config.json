@@ -109,6 +109,7 @@
   "SP_BASE_URL": "https://sp-api.int.bhdev.kfddev.com",
   "SendEmailOnScheduleWithinNoOfDays": "3",
   "Service_API_Domain": "https://kfnr-api.apps.app01.dev-use1.int-kfone.com",
+  "SmartRecruiters_Api_BaseUrl": "https://api.smartrecruiters.com",
   "SmtpSecretName": "/apps/kfnr/smtp",
   "SovrenCredentials_AccountId": "13048215",
   "SovrenCredentials_DataCenter": "US",
