@@ -126,6 +126,7 @@
   "aiTalentPoolQueue": "kfone_kfnr_ai_talent_pool_queue",
   "atlasSecretName": "apps/kfnr/azure-maps",
   "ats_source": "HELIX",
+  "BulkUploads": "bulk-uploads",
   "candidateAiSummaryKey": "kfone_kfnr_candidate_ai_summary_key",
   "candidateAiSummaryQueue": "kfone_kfnr_candidate_ai_summary_queue",
   "candidateDataCreateKey": "kfone_kfnr_candidatedata_create_key",
