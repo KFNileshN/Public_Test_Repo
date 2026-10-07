@@ -87,6 +87,7 @@
   "OpenAICandidateSummary": "/apps/kfnr/openaicandidatesummary",
   "OpenAISearchSecretName": "/apps/kfnr/openaisearch",
   "OpenAISecretName": "/apps/kfnr/openai",
+  "IamServicePublicKeySecretName": "/apps/kfnr/iam-service-public-key",
   "OpenAi_ApiUrl": "https://api.openai.com/v1/chat/completions",
   "OpenAi_Model": "gpt-3.5-turbo",
   "OpenAi_ResponseApiUrl": "https://api.openai.com/v1/responses",
